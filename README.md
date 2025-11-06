@@ -23,6 +23,6 @@ Implements **object-oriented design**, real-time **stock management**, and **aut
 
 
 ## Example
-Available cars: 10
-You rented 2 cars on a daily basis.
-Bill for 2 cars (1 day): $40
+- Available cars: 10
+- You rented 2 cars on a daily basis.
+- Bill for 2 cars (1 day): $40
